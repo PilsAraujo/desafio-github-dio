@@ -1,0 +1,1 @@
+O Git é um software de versionamento de código, ajuda a criar e monitorar diferentes versões do código dentro da máquina.
